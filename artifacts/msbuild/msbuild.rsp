@@ -1,8 +1,0 @@
-/nologo
-/m
-".build/KoreBuild.proj"
-/p:RepositoryRoot="C:\Repo\Plurally/"
-/fl
-/flp:LogFile="C:\Repo\Plurally/artifacts/msbuild/msbuild.log";Verbosity=detailed;Encoding=UTF-8
-/clp:Summary
-""
